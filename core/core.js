@@ -417,7 +417,7 @@ var vi = [
     {
         first:{version:"87.0.4241.0", date:"2020年08月22日。"},
         normal:{version:"87.0.4280.66", date:"2020年11月17日。"},
-        last:{version:"", date:""}
+        last:{version:"87.0.4280.141", date:"2021年01月07日。"}
     },
     {
         first:{version:"88.0.4281.0", date:"2020年10月03日。"},
