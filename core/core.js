@@ -328,7 +328,7 @@ var vi = [
         first:{version:"69.0.3452.0", date:"2018年06月08日。"},
         normal:{version:"69.0.3497.81", date:"2018年09月05日。"},
         last:{version:"69.0.3497.100", date:"2018年09月17日。"}
-    },//上面的数据来自浏览迷liulanmi.com //then by Tak,20200423
+    },
     {
         first:{version:"70.0.3510.0", date:"2018年08月03日。"},
         normal:{version:"70.0.3538.67", date:"2018年10月16日。"},
