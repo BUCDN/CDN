@@ -422,15 +422,20 @@ var vi = [
     {
         first:{version:"88.0.4281.0", date:"2020年10月03日。"},
         normal:{version:"88.0.4324.96", date:"2021年01月20日。"},
-        last:{version:"", date:""}
+        last:{version:"88.0.4324.190", date:"2021年02月24日。"}
     },
     {
         first:{version:"89.0.4115.5", date:"2020年11月14日。"},
-        normal:{version:"", date:""},
+        normal:{version:"89.0.4389.72", date:"2021年03月03日。"},
         last:{version:"", date:""}
     },
     {
         first:{version:"90.0.4393.0", date:"2021年01月20日。"},
+        normal:{version:"", date:""},
+        last:{version:"", date:""}
+    },
+    {
+        first:{version:"91.0.4434.0", date:"2021年03月02日。"},
         normal:{version:"", date:""},
         last:{version:"", date:""}
     }
@@ -713,7 +718,7 @@ function whatBrowser() {
     }
 }
 
-// 百度统计
+// baidutongji
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
