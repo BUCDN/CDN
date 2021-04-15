@@ -422,20 +422,25 @@ var vi = [
     {
         first:{version:"88.0.4281.0", date:"2020年10月03日。"},
         normal:{version:"88.0.4324.96", date:"2021年01月20日。"},
-        last:{version:"88.0.4324.190", date:"2021年02月24日。"}
+        last:{version:"88.0.4324.218", date:"2021年04月09日。"}
     },
     {
         first:{version:"89.0.4115.5", date:"2020年11月14日。"},
         normal:{version:"89.0.4389.72", date:"2021年03月03日。"},
+        last:{version:"89.0.4389.130", date:"2021年04月13日。"}
+    },
+    {
+        first:{version:"90.0.4390.0", date:"2021年01月16日。"},
+        normal:{version:"90.0.4430.72", date:"2021年04月15日。"},
         last:{version:"", date:""}
     },
     {
-        first:{version:"90.0.4393.0", date:"2021年01月20日。"},
+        first:{version:"91.0.4431.0", date:"2021年02月27日。"},
         normal:{version:"", date:""},
         last:{version:"", date:""}
     },
     {
-        first:{version:"91.0.4434.0", date:"2021年03月02日。"},
+        first:{version:"92.0.4473.0", date:"2021年04月10日。"},
         normal:{version:"", date:""},
         last:{version:"", date:""}
     }
