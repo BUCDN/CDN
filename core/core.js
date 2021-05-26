@@ -436,14 +436,19 @@ var vi = [
     },
     {
         first:{version:"91.0.4431.0", date:"2021年02月27日。"},
-        normal:{version:"", date:""},
+        normal:{version:"91.0.4472.77", date:"2021年05月26日。"},
         last:{version:"", date:""}
     },
     {
         first:{version:"92.0.4473.0", date:"2021年04月10日。"},
         normal:{version:"", date:""},
         last:{version:"", date:""}
-    }
+    },
+    {
+        first:{version:"93.0.4522.0", date:"2021年05月26日。"},
+        normal:{version:"", date:""},
+        last:{version:"", date:""}
+    }   
 ];
 var suggestion = [
     // 大版本号大于最新版
