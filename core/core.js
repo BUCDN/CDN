@@ -432,20 +432,65 @@ var vi = [
     {
         first:{version:"90.0.4390.0", date:"2021年01月16日。"},
         normal:{version:"90.0.4430.72", date:"2021年04月15日。"},
-        last:{version:"", date:""}
+        last:{version:"90.0.4430.246", date:"2021年12月10日。"}
     },
     {
         first:{version:"91.0.4431.0", date:"2021年02月27日。"},
-        normal:{version:"91.0.4472.77", date:"2021年05月26日。"},
-        last:{version:"", date:""}
+        normal:{version:"91.0.4472.77", date:"2021年05月23日。"},
+        last:{version:"91.0.4472.169", date:"2021年07月30日"}
     },
     {
         first:{version:"92.0.4473.0", date:"2021年04月10日。"},
+        normal:{version:"92.0.4515.107", date:"2021年07月18日"},
+        last:{version:"92.0.4515.186", date:"2021年12月03日"}
+    },
+    {
+        first:{version:"93.0.4522.0", date:"2021年05月25日。"},
+        normal:{version:"93.0.4577.63", date:"2021年08月27日"},
+        last:{version:"93.0.4577.137", date:"2021年11月03日"}
+    },
+    {
+        first:{version:"94.0.4578.0", date:"2021年07月17日。"},
+        normal:{version:"94.0.4606.54", date:"2021年09月18日"},
+        last:{version:"94.0.4606.128", date:"2021年12月10日"}
+    },
+    {
+        first:{version:"95.0.4608.0", date:"2021年08月15日。"},
+        normal:{version:"95.0.4638.54", date:"2021年10月16日"},
+        last:{version:"95.0.4638.78", date:"2021年11月05日"}
+    },
+    {
+        first:{version:"96.0.4639.0", date:"2021年09月11日。"},
+        normal:{version:"96.0.4664.45", date:"2021年11月11日"},
+        last:{version:"96.0.4664.202", date:"2022年03月02日"}
+    },
+    {
+        first:{version:"97.0.4665.0", date:"2021年10月09日。"},
+        normal:{version:"97.0.4692.71", date:"2021年12月29日"},
+        last:{version:"97.0.4692.114", date:"2022年03月17日"}
+    },
+    {
+        first:{version:"98.0.4693.0", date:"2021年11月06日。"},
+        normal:{version:"98.0.4758.102", date:"2022年02月11日"},
+        last:{version:"", date:""}
+    },
+    {
+        first:{version:"99.0.4759.0", date:"2021年12月11日。"},
+        normal:{version:"99.0.4844.51", date:"2022年02月26日"},
+        last:{version:"", date:""}
+    },
+    {
+        first:{version:"100.0.4845.0", date:"2022年01月22日。"},
         normal:{version:"", date:""},
         last:{version:"", date:""}
     },
     {
-        first:{version:"93.0.4522.0", date:"2021年05月26日。"},
+        first:{version:"101.0.4897.0", date:"2022年02月19日。"},
+        normal:{version:"", date:""},
+        last:{version:"", date:""}
+    },
+    {
+        first:{version:"102.0.4952.0", date:"2022年03月19日。"},
         normal:{version:"", date:""},
         last:{version:"", date:""}
     }   
