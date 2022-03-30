@@ -481,7 +481,7 @@ var vi = [
     },
     {
         first:{version:"100.0.4845.0", date:"2022年01月22日。"},
-        normal:{version:"", date:""},
+        normal:{version:"100.0.4896.60", date:"2022年03月30日"},
         last:{version:"", date:""}
     },
     {
